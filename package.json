@@ -10,14 +10,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/netarrow/EC-and-Nodejs-excercise.git"
+    "url": "git+https://github.com/netarrow/Ehttps://github.com/netarrow/webpack-babel-excercise.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/netarrow/EC-and-Nodejs-excercise/issues"
+    "url": "https://github.com/netarrow/https://github.com/netarrow/webpack-babel-excercise/issues"
   },
-  "homepage": "https://github.com/netarrow/EC-and-Nodejs-excercise#readme",
+  "homepage": "https://github.com/netarrow/https://github.com/netarrow/webpack-babel-excercise#readme",
   "devDependencies": {
     "@babel/core": "^7.11.6",
     "@babel/preset-env": "^7.11.5",
