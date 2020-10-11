@@ -16,7 +16,14 @@ module.exports = {
     filename: 'bundle.js'
   },
 
-  plugins: [new HtmlWebpackPlugin()],
+  plugins: [new HtmlWebpackPlugin(
+    {
+            hash: true,
+            title: 'Custom Webpack index template',
+            myPageHeader: 'Hello World',
+            template: './src/index.html',
+            filename: './index.html' //relative to root of the application
+  })],
 
   module: {
     rules: [
