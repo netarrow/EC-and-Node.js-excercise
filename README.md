@@ -1,3 +1,3 @@
 # webpack-babel-excercise
 
-Very simple exercise to practice webpack, gulp and babel 
+Very simple exercise to practice basic working of webpack, gulp and babel 
